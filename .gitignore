@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+*.h5
+*.pth
+data/
+__pycache__/
+.venv/
+.idea/
+data/
+*.pyc
+*.h5
+*.pth
